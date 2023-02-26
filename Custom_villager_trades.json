@@ -1,0 +1,1 @@
+summon minecraft:villager -4 56 -9 {VillagerData:{level:3,profession:"minecraft:nitwit",type:"minecraft:plains"},Offers:{Recipes: [{buy:{id:"minecraft:emerald",Count:3b},buyB:{id:"minecraft:diamond",Count:5b},sell:{id:"minecraft:diamond_sword",Count:1b,tag:{Enchantments:[{id:"minecraft:sharpness",lvl:255s}]}}}]}}
